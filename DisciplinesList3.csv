@@ -1,0 +1,225 @@
+﻿Discipline,factor,Field
+"AGRICULTURE, DAIRY & ANIMAL SCIENCE",1,life sciences
+ALLERGY,1,life sciences
+ANATOMY & MORPHOLOGY,1,life sciences
+ANDROLOGY,1,life sciences
+ANESTHESIOLOGY,1,life sciences
+BIOCHEMICAL RESEARCH METHODS,1,life sciences
+BIOCHEMISTRY & MOLECULAR BIOLOGY,1,life sciences
+BIOLOGY,1,life sciences
+BIOPHYSICS,1,life sciences
+BIOTECHNOLOGY & APPLIED MICROBIOLOGY,1,life sciences
+CARDIAC & CARDIOVASCULAR SYSTEMS,1,life sciences
+CELL & TISSUE ENGINEERING,1,life sciences
+CELL BIOLOGY,1,life sciences
+"CHEMISTRY, MEDICINAL",1,life sciences
+CRITICAL CARE MEDICINE,1,life sciences
+"DENTISTRY, ORAL SURGERY & MEDICINE",1,life sciences
+DERMATOLOGY,1,life sciences
+DEVELOPMENTAL BIOLOGY,1,life sciences
+EMERGENCY MEDICINE,1,life sciences
+ENDOCRINOLOGY & METABOLISM,1,life sciences
+"ENGINEERING, BIOMEDICAL",1,life sciences
+FOOD SCIENCE & TECHNOLOGY,1,life sciences
+GASTROENTEROLOGY & HEPATOLOGY,1,life sciences
+GENETICS & HEREDITY,1,life sciences
+GERIATRICS & GERONTOLOGY,1,life sciences
+HEMATOLOGY,1,life sciences
+HISTORY & PHILOSOPHY OF SCIENCE,1,life sciences
+IMMUNOLOGY,1,life sciences
+INFECTIOUS DISEASES,1,life sciences
+INTEGRATIVE & COMPLEMENTARY MEDICINE,1,life sciences
+MATHEMATICAL & COMPUTATIONAL BIOLOGY,1,life sciences
+MEDICAL LABORATORY TECHNOLOGY,1,life sciences
+"MEDICINE, GENERAL & INTERNAL",1,life sciences
+"MEDICINE, LEGAL",1,life sciences
+"MEDICINE, RESEARCH & EXPERIMENTAL",1,life sciences
+MICROBIOLOGY,1,life sciences
+MICROSCOPY,1,life sciences
+MULTIDISCIPLINARY SCIENCES,1,life sciences
+MYCOLOGY,1,life sciences
+NEUROSCIENCES,1,life sciences
+NUTRITION & DIETETICS,1,life sciences
+OBSTETRICS & GYNECOLOGY,1,life sciences
+ONCOLOGY,1,life sciences
+OPHTHALMOLOGY,1,life sciences
+ORTHOPEDICS,1,life sciences
+OTORHINOLARYNGOLOGY,1,life sciences
+PARASITOLOGY,1,life sciences
+PATHOLOGY,1,life sciences
+PEDIATRICS,1,life sciences
+PERIPHERAL VASCULAR DISEASE,1,life sciences
+PHARMACOLOGY & PHARMACY,1,life sciences
+PHYSIOLOGY,1,life sciences
+PLANT SCIENCES,1,life sciences
+PRIMARY HEALTH CARE,1,life sciences
+"RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING",1,life sciences
+REPRODUCTIVE BIOLOGY,1,life sciences
+RESPIRATORY SYSTEM,1,life sciences
+RHEUMATOLOGY,1,life sciences
+SPORT SCIENCES,1,life sciences
+SURGERY,1,life sciences
+TOXICOLOGY,1,life sciences
+TRANSPLANTATION,1,life sciences
+TROPICAL MEDICINE,1,life sciences
+UROLOGY & NEPHROLOGY,1,life sciences
+VETERINARY SCIENCES,1,life sciences
+VIROLOGY,1,life sciences
+ASTRONOMY & ASTROPHYSICS,2,physical sciences
+"CHEMISTRY, ANALYTICAL",2,physical sciences
+"CHEMISTRY, APPLIED",2,physical sciences
+"CHEMISTRY, INORGANIC & NUCLEAR",2,physical sciences
+"CHEMISTRY, MULTIDISCIPLINARY",2,physical sciences
+"CHEMISTRY, ORGANIC",2,physical sciences
+"CHEMISTRY, PHYSICAL",2,physical sciences
+CONSTRUCTION & BUILDING TECHNOLOGY,2,physical sciences
+CRYSTALLOGRAPHY,2,physical sciences
+ELECTROCHEMISTRY,2,physical sciences
+ENERGY & FUELS,2,physical sciences
+"ENGINEERING, CHEMICAL",2,physical sciences
+"ENGINEERING, MECHANICAL",2,physical sciences
+INSTRUMENTS & INSTRUMENTATION,2,physical sciences
+"MATERIALS SCIENCE, BIOMATERIALS",2,physical sciences
+"MATERIALS SCIENCE, CERAMICS",2,physical sciences
+"MATERIALS SCIENCE, CHARACTERIZATION & TESTING",2,physical sciences
+"MATERIALS SCIENCE, COATINGS & FILMS",2,physical sciences
+"MATERIALS SCIENCE, COMPOSITES",2,physical sciences
+"MATERIALS SCIENCE, MULTIDISCIPLINARY",2,physical sciences
+"MATERIALS SCIENCE, PAPER & WOOD",2,physical sciences
+"MATERIALS SCIENCE, TEXTILES",2,physical sciences
+MECHANICS,2,physical sciences
+METALLURGY & METALLURGICAL ENGINEERING,2,physical sciences
+MINING & MINERAL PROCESSING,2,physical sciences
+NANOSCIENCE & NANOTECHNOLOGY,2,physical sciences
+NUCLEAR SCIENCE & TECHNOLOGY,2,physical sciences
+OPTICS,2,physical sciences
+"PHYSICS, APPLIED",2,physical sciences
+"PHYSICS, ATOMIC, MOLECULAR & CHEMICAL",2,physical sciences
+"PHYSICS, CONDENSED MATTER",2,physical sciences
+"PHYSICS, FLUIDS & PLASMAS",2,physical sciences
+"PHYSICS, MULTIDISCIPLINARY",2,physical sciences
+"PHYSICS, NUCLEAR",2,physical sciences
+"PHYSICS, PARTICLES & FIELDS",2,physical sciences
+POLYMER SCIENCE,2,physical sciences
+SPECTROSCOPY,2,physical sciences
+THERMODYNAMICS,2,physical sciences
+AGRICULTURAL ENGINEERING,3,field sciences
+"AGRICULTURE, MULTIDISCIPLINARY",3,field sciences
+AGRONOMY,3,field sciences
+BIODIVERSITY CONSERVATION,3,field sciences
+ECOLOGY,3,field sciences
+"ENGINEERING, CIVIL",3,field sciences
+"ENGINEERING, ENVIRONMENTAL",3,field sciences
+"ENGINEERING, GEOLOGICAL",3,field sciences
+"ENGINEERING, OCEAN",3,field sciences
+"ENGINEERING, PETROLEUM",3,field sciences
+ENTOMOLOGY,3,field sciences
+ENVIRONMENTAL SCIENCES,3,field sciences
+EVOLUTIONARY BIOLOGY,3,field sciences
+FISHERIES,3,field sciences
+FORESTRY,3,field sciences
+GEOCHEMISTRY & GEOPHYSICS,3,field sciences
+"GEOGRAPHY, PHYSICAL",3,field sciences
+GEOLOGY,3,field sciences
+"GEOSCIENCES, MULTIDISCIPLINARY",3,field sciences
+HORTICULTURE,3,field sciences
+IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY,3,field sciences
+LIMNOLOGY,3,field sciences
+MARINE & FRESHWATER BIOLOGY,3,field sciences
+METEOROLOGY & ATMOSPHERIC SCIENCES,3,field sciences
+MINERALOGY,3,field sciences
+OCEANOGRAPHY,3,field sciences
+ORNITHOLOGY,3,field sciences
+PALEONTOLOGY,3,field sciences
+REMOTE SENSING,3,field sciences
+SOIL SCIENCE,3,field sciences
+WATER RESOURCES,3,field sciences
+ZOOLOGY,3,field sciences
+BEHAVIORAL SCIENCES,4,behavioral sciences
+CLINICAL NEUROLOGY,4,behavioral sciences
+CRIMINOLOGY & PENOLOGY,4,behavioral sciences
+EDUCATION & EDUCATIONAL RESEARCH,4,behavioral sciences
+"EDUCATION, SCIENTIFIC DISCIPLINES",4,behavioral sciences
+"EDUCATION, SPECIAL",4,behavioral sciences
+ERGONOMICS,4,behavioral sciences
+ETHNIC STUDIES,4,behavioral sciences
+FAMILY STUDIES,4,behavioral sciences
+GERONTOLOGY,4,behavioral sciences
+HEALTH CARE SCIENCES & SERVICES,4,behavioral sciences
+HEALTH POLICY & SERVICES,4,behavioral sciences
+LINGUISTICS,4,behavioral sciences
+MEDICAL ETHICS,4,behavioral sciences
+NEUROIMAGING,4,behavioral sciences
+NURSING,4,behavioral sciences
+PSYCHIATRY,4,behavioral sciences
+PSYCHOLOGY,4,behavioral sciences
+"PSYCHOLOGY, BIOLOGICAL",4,behavioral sciences
+"PSYCHOLOGY, CLINICAL",4,behavioral sciences
+"PSYCHOLOGY, DEVELOPMENTAL",4,behavioral sciences
+"PSYCHOLOGY, EDUCATIONAL",4,behavioral sciences
+"PSYCHOLOGY, EXPERIMENTAL",4,behavioral sciences
+"PSYCHOLOGY, MATHEMATICAL",4,behavioral sciences
+"PSYCHOLOGY, MULTIDISCIPLINARY",4,behavioral sciences
+"PSYCHOLOGY, PSYCHOANALYSIS",4,behavioral sciences
+"PSYCHOLOGY, SOCIAL",4,behavioral sciences
+"PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH",4,behavioral sciences
+REHABILITATION,4,behavioral sciences
+SOCIAL ISSUES,4,behavioral sciences
+"SOCIAL SCIENCES, BIOMEDICAL",4,behavioral sciences
+"SOCIAL SCIENCES, INTERDISCIPLINARY",4,behavioral sciences
+SOCIAL WORK,4,behavioral sciences
+SUBSTANCE ABUSE,4,behavioral sciences
+TRANSPORTATION,4,behavioral sciences
+WOMEN,4,behavioral sciences
+AGRICULTURAL ECONOMICS & POLICY,5,social sciences
+ANTHROPOLOGY,5,social sciences
+AREA STUDIES,5,social sciences
+BUSINESS,5,social sciences
+"BUSINESS, FINANCE",5,social sciences
+COMMUNICATION,5,social sciences
+CULTURAL STUDIES,5,social sciences
+DEMOGRAPHY,5,social sciences
+ECONOMICS,5,social sciences
+ENVIRONMENTAL STUDIES,5,social sciences
+ETHICS,5,social sciences
+GEOGRAPHY,5,social sciences
+HISTORY,5,social sciences
+HISTORY OF SOCIAL SCIENCES,5,social sciences
+"HOSPITALITY, LEISURE, SPORT & TOURISM",5,social sciences
+INDUSTRIAL RELATIONS & LABOR,5,social sciences
+INFORMATION SCIENCE & LIBRARY SCIENCE,5,social sciences
+INTERNATIONAL RELATIONS,5,social sciences
+LAW,5,social sciences
+MANAGEMENT,5,social sciences
+PLANNING & DEVELOPMENT,5,social sciences
+POLITICAL SCIENCE,5,social sciences
+"PSYCHOLOGY, APPLIED",5,social sciences
+PUBLIC ADMINISTRATION,5,social sciences
+"SOCIAL SCIENCES, MATHEMATICAL METHODS",5,social sciences
+SOCIOLOGY,5,social sciences
+URBAN STUDIES,5,social sciences
+ACOUSTICS,6,computer sciences
+AUTOMATION & CONTROL SYSTEMS,6,computer sciences
+"COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",6,computer sciences
+"COMPUTER SCIENCE, CYBERNETICS",6,computer sciences
+"COMPUTER SCIENCE, HARDWARE & ARCHITECTURE",6,computer sciences
+"COMPUTER SCIENCE, INFORMATION SYSTEMS",6,computer sciences
+"COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",6,computer sciences
+"COMPUTER SCIENCE, SOFTWARE ENGINEERING",6,computer sciences
+"COMPUTER SCIENCE, THEORY & METHODS",6,computer sciences
+"ENGINEERING, AEROSPACE",6,computer sciences
+"ENGINEERING, ELECTRICAL & ELECTRONIC",6,computer sciences
+"ENGINEERING, INDUSTRIAL",6,computer sciences
+"ENGINEERING, MANUFACTURING",6,computer sciences
+"ENGINEERING, MARINE",6,computer sciences
+"ENGINEERING, MULTIDISCIPLINARY",6,computer sciences
+MATHEMATICS,6,computer sciences
+"MATHEMATICS, APPLIED",6,computer sciences
+"MATHEMATICS, INTERDISCIPLINARY APPLICATIONS",6,computer sciences
+MEDICAL INFORMATICS,6,computer sciences
+OPERATIONS RESEARCH & MANAGEMENT SCIENCE,6,computer sciences
+"PHYSICS, MATHEMATICAL",6,computer sciences
+ROBOTICS,6,computer sciences
+STATISTICS & PROBABILITY,6,computer sciences
+TELECOMMUNICATIONS,6,computer sciences
+TRANSPORTATION SCIENCE & TECHNOLOGY,6,computer sciences
